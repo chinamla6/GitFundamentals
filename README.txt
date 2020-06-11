@@ -1,3 +1,5 @@
+sHARING IS FUN N EASY
+
 Updaitnf read me 
 Updating again
 Hello, Git
